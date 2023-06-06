@@ -19,7 +19,7 @@ export const projectsData = [
         projectDesc: 'This is the first website I designed for KazeAbroad, an Agency based on education.',
         tags: ['React', 'Express', 'Material Ui'],
         code: '#',
-        demo: 'https://kazearboad.com/',
+        demo: 'https://kazeabroad.com/',
         image: seven
     },
     {
