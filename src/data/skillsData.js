@@ -3,6 +3,7 @@ export const skillsData = [
     'Figma',
     'Javascript',
     'CSS',
+    'Canva',
     'React',
     'Node JS',
     'Bootstrap',
@@ -17,6 +18,7 @@ export const skillsData = [
     'Python',
     'Machine Learning',
     'MySQL',
+    'Canva'
 
 ]
 
