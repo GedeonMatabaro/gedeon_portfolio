@@ -10,7 +10,8 @@ export const projectsData = [
         projectDesc: 'This project Online Learning System Management.',
         tags: ['React', 'SAAS', 'React Bootstrap'],
         code: 'https://github.com/GedeonMatabaro/KNERDS/tree/master',
-        demo: 'https://gdi1wr-5173.csb.app/',
+        // demo: 'https://gdi1wr-5173.csb.app/',
+        demo:'https://pjrsbk-5173.csb.app/',
         image: six
     },
     {
