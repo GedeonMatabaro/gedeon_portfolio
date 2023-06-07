@@ -6,7 +6,7 @@ import six from '../assets/svg/projects/six.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'KIITNERDS',
+        projectName: 'KNERDS',
         projectDesc: 'This project Online Learning System Management.',
         tags: ['React', 'SAAS', 'React Bootstrap'],
         code: 'https://github.com/GedeonMatabaro/KNERDS/tree/master',
