@@ -7,3 +7,4 @@ export const headerData = {
     imagebw: 'https://i.ibb.co/fQCvSz9/passport-gdm.jpg',
     resumePdf: 'https://drive.google.com/file/d/1HiNmcOuFFViPKd231Pi3Gt3uqRojj6F2/view?usp=sharing'
 }
+// comment
