@@ -1,6 +1,7 @@
 import eight from '../assets/svg/projects/eight.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import six from '../assets/svg/projects/six.svg'
+import eleven from '../assets/svg/projects/eleven.svg'
 
 
 export const projectsData = [
@@ -39,7 +40,7 @@ export const projectsData = [
         tags: ['TypeScript', 'NextJs', 'Tailwind', ],
         code: '#',
         demo: 'globi-comming-soon.vercel.app',
-        image: five
+        image: eleven
     }
 ]
 
