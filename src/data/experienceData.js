@@ -1,23 +1,23 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Great Dream Academy',
-        jobtitle: 'Co-founder and CEO',
-        startYear: 'Jan 2023',
-        endYear: 'Present'
-    },
-    {
-        id: 2,
         company: 'Re-Banatex',
         jobtitle: 'Co-founder and COO',
         startYear: 'September 2022',
         endYear: 'Present'
     },
     {
-        id: 3,
+        id: 2,
         company: 'KAZEABROAD',
         jobtitle: 'Web Developer',
         startYear: '2021',
+        endYear: '2023'
+    },
+    {
+        id: 3,
+        company: 'Globiexplore',
+        jobtitle: 'Co-founder, CTO',
+        startYear: '2024',
         endYear: 'Present'
     },
 ]

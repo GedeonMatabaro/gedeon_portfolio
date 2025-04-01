@@ -4,7 +4,7 @@ export const educationData = [
         institution: 'Kalinga Institute of Industrial Technology',
         course: 'Bachelor Degree',
         startYear: '2021',
-        endYear: 'Present',
+        endYear: '2024',
         grade: '9.35 / 10'
     },
     {

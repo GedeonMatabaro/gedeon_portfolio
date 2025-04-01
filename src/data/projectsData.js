@@ -5,7 +5,7 @@ import six from '../assets/svg/projects/six.svg'
 
 export const projectsData = [
     {
-        id: 1,
+        id: 3,
         projectName: 'KNERDS',
         projectDesc: 'This project is an Online Learning System Management. I designed it to help people access free courses on line on different topics',
         tags: ['React', 'SAAS', 'React Bootstrap'],
@@ -24,13 +24,22 @@ export const projectsData = [
         image: seven
     },
     {
-        id: 3,
-        projectName: 'Great Dream Academy',
-        projectDesc: 'This project about a educational agency.',
-        tags: ['HTML', 'CSS', 'JavaScript'],
+        id: 1,
+        projectName: 'Globiexplore',
+        projectDesc: 'This project is about a social media app for travellers.',
+        tags: ['TypeScript', 'NextJs', 'Tailwind', 'StreamChat', 'Docker', 'Kubernetes', 'UploadThing', 'Prisma', 'Postgessql'],
         code: '#',
-        demo: 'https://greatdreamacademy.com/',
+        demo: 'https://globi1-sable.vercel.app/',
         image: eight
+    },
+    {
+        id: 4,
+        projectName: 'Globiexplore-CountDown',
+        projectDesc: 'This project about a social media app for travellers. The count down site',
+        tags: ['TypeScript', 'NextJs', 'Tailwind', ],
+        code: '#',
+        demo: 'globi-comming-soon.vercel.app',
+        image: five
     }
 ]
 
