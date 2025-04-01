@@ -18,7 +18,9 @@ export const skillsData = [
     'Python',
     'Machine Learning',
     'MySQL',
-    'Canva'
+    'Canva',
+    'Docker',
+    'Kubernetes'
 
 ]
 
