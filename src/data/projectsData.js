@@ -12,7 +12,7 @@ export const projectsData = [
         tags: ['TypeScript', 'NextJs', 'Tailwind', 'StreamChat', 'Docker', 'Kubernetes', 'UploadThing', 'Prisma', 'Postgessql'],
         code: '#',
         demo: 'https://globi1-sable.vercel.app/',
-        image: eight
+        image: image_globi
     },
     {
         id: 3,
