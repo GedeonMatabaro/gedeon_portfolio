@@ -1,10 +1,19 @@
-import eight from '../assets/svg/projects/eight.svg'
+import image_globi from '../assets/svg/projects/image_globi.png'
 import seven from '../assets/svg/projects/seven.svg'
 import six from '../assets/svg/projects/six.svg'
 import eleven from '../assets/svg/projects/eleven.svg'
 
 
 export const projectsData = [
+    {
+        id: 1,
+        projectName: 'Globiexplore',
+        projectDesc: 'This project is about a social media app for travellers.',
+        tags: ['TypeScript', 'NextJs', 'Tailwind', 'StreamChat', 'Docker', 'Kubernetes', 'UploadThing', 'Prisma', 'Postgessql'],
+        code: '#',
+        demo: 'https://globi1-sable.vercel.app/',
+        image: eight
+    },
     {
         id: 3,
         projectName: 'KNERDS',
@@ -23,15 +32,6 @@ export const projectsData = [
         code: '#',
         demo: 'https://kazeabroad.com/',
         image: seven
-    },
-    {
-        id: 1,
-        projectName: 'Globiexplore',
-        projectDesc: 'This project is about a social media app for travellers.',
-        tags: ['TypeScript', 'NextJs', 'Tailwind', 'StreamChat', 'Docker', 'Kubernetes', 'UploadThing', 'Prisma', 'Postgessql'],
-        code: '#',
-        demo: 'https://globi1-sable.vercel.app/',
-        image: eight
     },
     {
         id: 4,
